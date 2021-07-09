@@ -1,3 +1,4 @@
-## Personal Portfolio
+## Personal Portfolio experiments
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Trying what kind of animal next to it in conjunction with the react.
+Plus, I pull up the style component, let's see what happens in the end.
